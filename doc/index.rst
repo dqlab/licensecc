@@ -53,7 +53,7 @@ The software is made by 4 main sub-components:
 * ``lccgen``       : a license generator (github project `lcc-license-generator`_ ) to initialize the library and generate the licenses.
 * ``examples``     : usage samples (github project `examples <https://github.com/open-license-manager/examples>`_ ).
 
-.. _lcc-license-generator: https://github.com/open-license-manager/lcc-license-generator
+.. _lcc-license-generator: https://github.com/dqlab/lcc-license-generator
 
 How to build
 ****************

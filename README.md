@@ -29,7 +29,7 @@ It has a [BSD 3 clauses](https://opensource.org/licenses/BSD-3-Clause) licensing
 The software is made by 4 main sub-components:
 -   a C++ library with a nice C api, `licensecc` with minimal (or no) external dependencies (the part you have to integrate in your software) that is the project you're currently in.
 -   a license debugger `lcc-inspector` to be sent to the final customer when there are licensing problems or for calculating the pc hash before issuing the license.
--   a license generator (github project [lcc-license-generator](https://github.com/open-license-manager/lcc-license-generator)) `lccgen` for customizing the library and generate the licenses.
+-   a license generator (github project [lcc-license-generator](https://github.com/dqlab/lcc-license-generator)) `lccgen` for customizing the library and generate the licenses.
 -   Usage [examples](https://github.com/open-license-manager/examples) to simplify the integration in your project.
  
 ## How to build
